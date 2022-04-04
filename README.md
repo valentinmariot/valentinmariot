@@ -2,7 +2,7 @@
 
 ### I'm Valentin Mariot and u're welcome on my profile !
       
-Apprentice ✨*Front-End Developer*✨ at [OVEXA](https://oxeva.fr) I'm curently working on our new IaaS product : [NUA.GE](https://nua.ge) !
+Apprentice ✨*Front-End Developer*✨ at [<img height="20px" style="display: flex; align-item: center; justify-content: center;" src="/oxeva.png" />OVEXA](https://oxeva.fr) I'm curently working on our new IaaS product : [NUA.GE](https://nua.ge) !
        
 Every day I improve my skills on many technologies, especially :   
 

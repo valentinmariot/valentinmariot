@@ -1,8 +1,6 @@
-## Hey y'all ! 'Sup ? ✌️ 
-
-### I'm Valentin Mariot and u're welcome on my profile !
+## Hey y'all !  I'm Valentin Mariot and u're welcome on my profile ! ✌️ 
       
-Apprentice ✨*Front-End Developer*✨ at [**<img height="20px" src="/oxeva.png" />OVEXA**](https://oxeva.fr) I'm curently working on our new IaaS product : [**nua<img height="7px" src="/nua.ge2.png" />ge**](https://nua.ge) !
+Based in Paris and apprentice ✨*Front-End Developer*✨ at [**<img height="20px" src="/oxeva.png" />OVEXA**](https://oxeva.fr) I'm curently working on our new IaaS product : [**nua<img height="7px" src="/nua.ge2.png" />ge**](https://nua.ge) !
        
 Every day I improve my skills on many technologies, especially :   
 

@@ -27,4 +27,4 @@ Every day I improve my skills on many technologies, especially :
 
 [![Twitter: ValentinMariot](https://img.shields.io/twitter/follow/ValentinMariot?style=social)](https://twitter.com/ValentinMariot)
 [![Linkedin: valentin-mariot](https://img.shields.io/badge/-valentinmariot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentin-mariot/)](https://www.linkedin.com/in/valentin-mariot/)
-[![GitHub valentinmariot](https://img.shields.io/github/valentinmariot?label=follow&style=social)](https://github.com/valentinmariot)
+[![GitHub valentinmariot](https://img.shields.io/github/followers/valentinmariot?label=follow&style=social)](https://github.com/valentinmariot)

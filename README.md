@@ -24,12 +24,7 @@ Every day I improve my skills on many technologies, especially :
 
 <hr>       
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq)
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&count=3)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&width="250px")
 
 ### See ya' here :
 

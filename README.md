@@ -24,6 +24,8 @@ Every day I improve my skills on many technologies, especially :
 
 <hr> 
 
+[![Spotify](https://novatorem-jlwkh71ha-vm-nanashi.vercel.app/api/spotify)](https://open.spotify.com/user/230de6fce5cc4f1fbb52cfacfc59e724)
+
 ### See ya' here :
 
 [![Twitter: ValentinMariot](https://img.shields.io/twitter/follow/ValentinMariot?style=social)](https://twitter.com/ValentinMariot)

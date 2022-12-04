@@ -23,7 +23,9 @@ Every day I improve my skills on many technologies, especially :
 <code><img width="30px" title="TERMINAL" alt="TERMINAL" src="/logos/terminal.png"> terminal</code>
 
 <hr>       
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ValentinMariot)    
+
+[![Spotify](https://valentinspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ValentinMariot)
+
 [![Spotify](https://valentinspotify.vercel.app/api/spotify)](https://open.spotify.com/user/ValentinMariot)      
 
 ### See ya' here :

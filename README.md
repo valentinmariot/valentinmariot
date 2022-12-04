@@ -27,6 +27,10 @@ Every day I improve my skills on many technologies, especially :
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&count=3)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&width=250)
+
 ### See ya' here :
 
 [![Twitter: ValentinMariot](https://img.shields.io/twitter/follow/ValentinMariot?style=social)](https://twitter.com/ValentinMariot)

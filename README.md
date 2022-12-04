@@ -23,7 +23,9 @@ Every day I improve my skills on many technologies, especially :
 <code><img width="30px" title="TERMINAL" alt="TERMINAL" src="/logos/terminal.png"> terminal</code>
 
 <hr>       
-[![Spotify](https://valentinspotify.vercel.app/api/spotify)](https://open.spotify.com/user/dffa02ccd4d2430ab90fd1cfd3249155)   
+[![Spotify](https://valentinspotify.vercel.app/api/spotify)](https://open.spotify.com/user/dffa02ccd4d2430ab90fd1cfd3249155)      
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dffa02ccd4d2430ab90fd1cfd3249155cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dffa02ccd4d2430ab90fd1cfd3249155&redirect=true)
 
 ### See ya' here :
 

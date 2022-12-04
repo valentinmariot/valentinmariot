@@ -24,7 +24,7 @@ Every day I improve my skills on many technologies, especially :
 
 <hr>       
 
-[![Spotify](https://valentinspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ValentinMariot)
+[![Spotify](https://valentinspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dffa02ccd4d2430ab90fd1cfd3249155)
 
 [![Spotify](https://valentinspotify.vercel.app/api/spotify)](https://open.spotify.com/user/ValentinMariot)      
 

@@ -27,7 +27,7 @@ Every day I improve my skills on many technologies, especially :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&count=3)
 
 ### See ya' here :
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_USER_ID.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discordapp.com/channels/@Val'#9912)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_USER_ID.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discordapp.com/@Val'#9912)
 [![Twitter: ValentinMariot](https://img.shields.io/twitter/follow/ValentinMariot?style=social)](https://twitter.com/ValentinMariot)
 [![Linkedin: valentin-mariot](https://img.shields.io/badge/-valentinmariot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentin-mariot/)](https://www.linkedin.com/in/valentin-mariot/)
 [![GitHub valentinmariot](https://img.shields.io/github/followers/valentinmariot?label=follow&style=social)](https://github.com/valentinmariot)

@@ -28,7 +28,7 @@ Every day I improve my skills on many technologies, especially :
 
 ### See ya' here :
 
-![](https://dcbadge.vercel.app/api/shield/1050359333789106186?bot=true)
+![](https://dcbadge.vercel.app/api/shield/1050359333789106186?bot=true?style=flat)
 ![](https://dcbadge.vercel.app/api/shield/692026964000768113?style=flat)
 [![Twitter: ValentinMariot](https://img.shields.io/twitter/follow/ValentinMariot?style=social)](https://twitter.com/ValentinMariot)
 [![Linkedin: valentin-mariot](https://img.shields.io/badge/-valentinmariot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentin-mariot/)](https://www.linkedin.com/in/valentin-mariot/)

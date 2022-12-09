@@ -23,8 +23,7 @@ Every day I improve my skills on many technologies, especially :
 <code><img width="30px" title="TERMINAL" alt="TERMINAL" src="/logos/terminal.png"> terminal</code>
 
 <hr>       
-[![Spotify](https://vm-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/Valentin%C2%A0Mariot)
-     
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xnygsy4qor2x76kge5keulq&count=3)
 
 ### See ya' here :

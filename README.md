@@ -1,6 +1,6 @@
 ## Hey y'all ! ✌️ 
  
-Based in Paris and ✨*Front-End Developer*✨ at [**<img height="20px" src="/oxeva.png" />OVEXA**](https://oxeva.fr) I'm currently working on our new IaaS product : [**nua<img height="7px" src="/nua.ge2.png" />ge**](https://nua.ge) !
+Based in Paris and ✨*Product Owner*✨. I'm currently open to work !
        
 Every day I improve my skills on many technologies, especially :   
 

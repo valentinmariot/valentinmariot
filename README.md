@@ -1,6 +1,6 @@
 ## Hey y'all ! ✌️ 
  
-Based in Paris and ✨*Head Of Product*✨. I'm currently working for SeDomicilier (🇫🇷 LegalTech company)!
+Based in Paris and ✨*Product Owner*✨. I'm currently working for SeDomicilier (🇫🇷 LegalTech company)!
        
 Every day I improve my skills on many technologies, especially :   
 
